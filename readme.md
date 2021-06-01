@@ -1,6 +1,6 @@
 # 05 Third-Party APIs: Work Day Planner (Explanation ReadMe)
 
-Link to Website: https://crowderyan.github.io/CodingQuiz/
+Link to Website: https://crowderyan.github.io/DayPlanner/
 
 1. The current day is displayed at the top of the calendar
 
