@@ -41,7 +41,6 @@ $(document).ready(() => {
     var events = getLocalStorage();
     events[index] = data;
     localStorage.setItem("events", JSON.stringify(events));
-    console.log(events);
   }
 
   // Retrieving Local storage data
@@ -57,7 +56,5 @@ $(document).ready(() => {
       var i = Number.parseInt(index) + 9;
       $("#event" + i).val(events[index]);
     }
-    console.log(index);
-    console.log(events);
   }
 });
