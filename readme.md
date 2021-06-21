@@ -22,4 +22,6 @@ Link to Website: https://crowderyan.github.io/DayPlanner/
 
    ![Save button changes storage](./assets/images/localstorage-save.png)
 
+This project uses: moment.js, local storage, and JSON.
+
 If you have any questions:<a href="mailto:rebuiltrival@gmail.com" hspace="20">Email Me</a>
