@@ -1,5 +1,7 @@
 # 05 Third-Party APIs: Work Day Planner (Explanation ReadMe)
 
+This is a reusable scheduling notepad for your work day hours. It reads, writes, and remembers any task that you enter.
+
 Link to Website: https://crowderyan.github.io/DayPlanner/
 
 1. The current day is displayed at the top of the calendar
@@ -19,3 +21,5 @@ Link to Website: https://crowderyan.github.io/DayPlanner/
    -Save button stores changes
 
    ![Save button changes storage](./assets/images/localstorage-save.png)
+
+If you have any questions:<a href="mailto:rebuiltrival@gmail.com" hspace="20">Email Me</a>
